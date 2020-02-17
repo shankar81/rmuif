@@ -1,12 +1,15 @@
 {
   "name": "cra-template-rmuif",
-  "version": "1.0.4",
-  "description": "The RMUIF template for Create React App",
+  "version": "1.0.5",
+  "description": "Supercharged version of Create React App with all the  bells and whistles",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "rmuif"
+    "rmuif",
+    "material-ui",
+    "firebase",
+    "react-router"
   ],
   "homepage": "https://demo.rmuif.com",
   "bugs": {
