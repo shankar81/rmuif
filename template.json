@@ -72,9 +72,7 @@
       "react-swipeable-views": "0.13.9",
       "reading-time": "^1.1.3",
       "typeface-roboto": "^0.0.75",
-      "validate.js": "^0.13.1"
-    },
-    "devDependencies": {
+      "validate.js": "^0.13.1",
       "@testing-library/jest-dom": "^5.1.1",
       "@testing-library/react": "^9.3.2",
       "@testing-library/user-event": "^10.0.0",
@@ -85,7 +83,6 @@
       "prettier": "^1.19.1",
       "source-map-explorer": "^2.2.2"
     },
-    "private": true,
     "eslintConfig": {
       "extends": ["react-app", "plugin:prettier/recommended"]
     },
