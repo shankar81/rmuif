@@ -41,5 +41,11 @@
     "sentry": {
       "dsn": "https://78536326e6524916b6f44b4ea510b7a4@sentry.io/1846624"
     }
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "plugin:prettier/recommended"
+    ]
   }
 }
