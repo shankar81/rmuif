@@ -292,3 +292,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,code,react,linux,macos,dotenv,windows,webstorm+all,visualstudiocode
+
+yarn.lock
