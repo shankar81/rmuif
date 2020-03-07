@@ -1,0 +1,37 @@
+{
+  "name": "cra-template-rmuif",
+  "version": "1.0.0",
+  "description": "The RMUIF template for Create React App",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "rmuif",
+    "material-ui",
+    "firebase",
+    "react-router"
+  ],
+  "homepage": "https://demo.rmuif.com",
+  "bugs": {
+    "url": "https://github.com/phoqe/rmuif/issues",
+    "email": "phoqe@phoqe.dev"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Linus Långberg",
+    "email": "phoqe@phoqe.dev",
+    "url": "https://phoqe.dev"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phoqe/rmuif.git"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
