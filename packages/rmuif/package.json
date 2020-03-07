@@ -1,8 +1,16 @@
 {
-  "name": "tools",
-  "version": "0.1.0",
-  "description": "Tools for RMUIF",
-  "keywords": [],
+  "name": "rmuif",
+  "version": "1.0.0",
+  "description": "Supercharged version of Create React App with all the bells and whistles",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "rmuif",
+    "material-ui",
+    "firebase",
+    "react-router"
+  ],
   "homepage": "https://rmuif.com",
   "bugs": {
     "url": "https://github.com/phoqe/rmuif/issues",
@@ -12,16 +20,11 @@
   "author": {
     "name": "Linus Långberg",
     "email": "phoqe@phoqe.dev",
-    "url": "https://phoqe.me"
+    "url": "https://phoqe.dev"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/phoqe/rmuif.git"
-  },
-  "scripts": {
-    "roles": "node roles",
-    "user": "node user",
-    "users": "node users"
   },
   "dependencies": {
     "cli-table": "^0.3.1",
