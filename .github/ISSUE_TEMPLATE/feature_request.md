@@ -1,6 +1,6 @@
 ---
 name: Request a Feature
-about: Use this template to suggest something that you think is missing
+about: Use this template to suggest something that you think is missing.
 ---
 
 ## Problem

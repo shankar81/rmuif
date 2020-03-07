@@ -1,6 +1,6 @@
 ---
 name: Report a Bug
-about: Use this template if you’ve found a bug and would like to report it
+about: Use this template if you’ve found a bug and would like to report it.
 ---
 
 ## Description

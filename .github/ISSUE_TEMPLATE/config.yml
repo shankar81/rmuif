@@ -1,4 +1,13 @@
+blank_issues_enabled: false
 contact_links:
-  - name: Join Us on Discord
+  - name: Discord
+    about: "This is the main channel for external communication. Please use the #rmuif channel, thank you."
     url: https://discord.gg/PdRYuHW
-    about: If you’ve got a question that doesn’t fit a template, use our Discord channel.
+
+  - name: Spectrum
+    url: https://spectrum.chat/rmuif
+    about: If you prefer to use Spectrum over Discord, there’s a community for that.
+
+  - name: Stack Overflow
+    url: https://stackoverflow.com/questions/tagged/rmuif
+    about: If you have a broad question and doesn’t necessarily relate to the project, use the ”rmuif“ tag on Stack Overflow.
